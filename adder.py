@@ -7,6 +7,7 @@ import sys
 n = sys.argv[1]
 n = int(n)
 
+second time lucky
 
 # Figured out strange algorithm; results in 100x
 # speedup
